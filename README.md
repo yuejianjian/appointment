@@ -19,3 +19,7 @@ npm install 或 yarn(推荐)
 npm start (访问线上后台系统)
 
 访问: http://localhost:3000
+
+### 动图演示：
+
+![img](https://github.com/yuejianjian/appointment/blob/master/GIF.gif)
