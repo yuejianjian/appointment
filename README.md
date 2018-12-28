@@ -5,6 +5,10 @@
 
 react+react-router-dom + ES6/7 +antd+axios
 
+### 动图演示：
+
+![img](https://github.com/yuejianjian/appointment/blob/master/GIF.gif)
+
 
 ## 项目运行
 
@@ -20,6 +24,3 @@ npm start (访问线上后台系统)
 
 访问: http://localhost:3000
 
-### 动图演示：
-
-![img](https://github.com/yuejianjian/appointment/blob/master/GIF.gif)
